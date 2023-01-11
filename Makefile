@@ -1,0 +1,1 @@
+obj-$(CONFIG_HELLOWORLD_CONFIG_ITEM) +=main.o

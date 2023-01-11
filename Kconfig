@@ -1,0 +1,5 @@
+menu "My custom Modules"
+	config HELLOWORLD_CONFIG_ITEM
+		tristate "HelloWorld custom Module"
+		default m
+endmenu
